@@ -45,5 +45,3 @@ This project presents a comprehensive analysis of the top 200 Twitch streamers u
 - **Python 3.10+**
 - `NumPy`, `Pandas`, `Matplotlib`
 - Custom implementations of MCDM algorithms (no external DSS libraries used)
-## 📁 Project Structure
-
