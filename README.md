@@ -1,7 +1,10 @@
 # 🧠 Multi-Criteria Decision Analysis of Top Twitch Streamers
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Version](https://img.shields.io/badge/3.8%2B-blue?style=flat)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Notebook](https://img.shields.io/badge/Notebook-orange?style=flat)
+
 
 This project presents a comprehensive analysis of the top 200 Twitch streamers using **Multi-Criteria Decision-Making (MCDM)** techniques. The goal is to develop fair, scalable, and data-driven streamer rankings using several DSS methods with both **subjective** (AHP) and **objective** (Entropy) weighting schemes.
 
